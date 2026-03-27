@@ -79,9 +79,13 @@ This is **20+ years of real-world experience**, distilled for you.
 By the end of this journey, you will:
 
 Think like a **Cloud Architect**
+
 Design systems with **confidence and clarity**
+
 Understand **trade-offs**, not just tools
+
 Be able to **justify every design decision**
+
 Build **production-ready architectures**
 
 ---
